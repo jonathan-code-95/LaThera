@@ -1,16 +1,22 @@
-# isning
+# 🌿 LaThera Space
 
-```sh
-npm install
-```
-### Compile and Hot-Reload for Development
+Sitio web para LaThera, un espacio terapéutico moderno y flexible. Este proyecto fue desarrollado utilizando **Vue 3** y **Bootstrap 5**, con un enfoque en diseño limpio y responsive.
 
-```sh
-npm run dev
-```
+---
 
-### Url del Proyecto
+## 🛠️ Tecnologías Utilizadas
 
-[https://isning.vercel.app/](https://isning.vercel.app/)
+- ⚙️ [Vue 3](https://vuejs.org/) — Framework JavaScript progresivo
+- 🎨 [Bootstrap 5](https://getbootstrap.com/) — Librería CSS para diseño responsive
+- 🧩 Vite — Bundler ultrarrápido para desarrollo Vue
+- 💻 HTML5, CSS3 y JavaScript ES6+
 
+---
 
+## 🚀 Cómo Ejecutar el Proyecto
+
+1. **Cloná el repositorio**
+
+```bash
+git clone https://github.com/ErickRuiz97/LaThera.git
+cd LaThera
