@@ -13,7 +13,11 @@ Sitio web para LaThera, un espacio terapéutico moderno y flexible. Este proyect
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto
+## 🚀 ¿Cómo iniciar el proyecto?
+
+```bash
+npm install
+npm run dev
 
 1. **Cloná el repositorio**
 
