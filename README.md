@@ -15,12 +15,12 @@ Sitio web para LaThera, un espacio terapéutico moderno y flexible. Este proyect
 
 ## 🚀 ¿Cómo iniciar el proyecto?
 
-```bash
-npm install
-npm run dev
-
 1. **Cloná el repositorio**
 
 ```bash
 git clone https://github.com/ErickRuiz97/LaThera.git
 cd LaThera
+
+```bash
+npm install
+npm run dev
