@@ -26,7 +26,7 @@
             class="form-control mb-4"
             placeholder="Preferred Move-In Date"
           />
-          <button type="submit" class="btn btn-light mb-2">Notify Me</button>
+          <button type="submit" class="btn btn-light mb-2 rounded-0 btn-green">Notify Me</button>
           <small class="text-white d-block">
             We respect your inbox and your privacy. No spam—ever.
           </small>
@@ -48,6 +48,21 @@
 </section>
 </template>
 <style scoped>
+input{
+  background-color: transparent;
+}
+input::placeholder {
+  color: #fff; 
+  opacity: 1;
+}
+.btn-green {
+  color: #8a9a88;
+}
+input:focus {
+  background-color: transparent;
+  box-shadow: none;
+  border-color: #fff;
+}
 .launch-section {
   position: relative;
   width: 100%;
